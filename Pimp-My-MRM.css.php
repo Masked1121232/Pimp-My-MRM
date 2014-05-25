@@ -26,6 +26,11 @@
 	margin: 0 80px;
 	padding-top: 50px;
 }
+
+#feed-box {
+position: fixed;
+margin-left: 53.4%;
+}
 <?php endif; ?>
 
 <?php if (isset($_GET['SidebarVerdana'])): ?>
